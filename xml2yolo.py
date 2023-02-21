@@ -2,7 +2,7 @@
 This code converts your pascal XML formatted code to YOLO txt format
 make sure  that the datasets are structured as follows:
 root
-├──annotations (folder)
+├──labels (folder)
 ├  ├── 1.xml
 ├  ├── 2.xml
 ├  └── n.xml
