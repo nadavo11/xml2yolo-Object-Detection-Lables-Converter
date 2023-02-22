@@ -1,0 +1,9 @@
+train: ../mydata/images/train/
+val:  ../mydata/images/val/
+test: ../mydata/images/test/
+
+# number of classes
+nc: 1
+
+# class names
+names: ["1"]
